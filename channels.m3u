@@ -1,25 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Abierta", Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" group-title="Abierta", Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Abierta", Imagen TV
-http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png" group-title="Abierta", Foro TV
-https://stream.m3u8
+http://u.m3uts.xyz/stream/hls/634.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Abierta", Las Estrellas
+http://u.m3uts.xyz/stream/hls/411.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="Abierta", Imagen TV
+http://u.m3uts.xyz/stream/hls/341.m3u8
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="Abierta", Foro TV
+http://u.m3uts.xyz/stream/hls/1543.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Abierta", Canal 5
-https://stream.m3u8
+http://u.m3uts.xyz/stream/hls/14.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99620_dark_360w_270h.png" group-title="Abierta", Multimedios Plus
-https://stream.m3u8
+http://u.m3uts.xyz/stream/hls/155.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="Abierta", Azteca 7
-https://stream.m3u8
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="Cine", HBO
-http://190.61.106.107:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="mx#hbo-2" tvg-name="HBO 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="Cine", HBO 2
-http://190.61.106.107:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="Cine", HBO Family
-http://190.61.106.107:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Cine", HBO Xtreme
-http://190.61.106.107:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="HBOPop.mx" tvg-name="HBO Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Cine", HBO Pop
-http://186.148.195.206:8000/play/a08s/index.m3u8
+http://u.m3uts.xyz/stream/hls/635.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90518_dark_360w_270h.png" group-title="Abierta", Canal 14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Abierta", Canal Once
+https://s5.mexside.net:1936/stream/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLocal.mx" tvg-name="Corazón de la Capital" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="Abierta", Corazón de la Capital
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116169_dark_360w_270h.png" group-title="Abierta", TV UNAM
+https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
